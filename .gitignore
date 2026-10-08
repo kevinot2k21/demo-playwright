@@ -10,10 +10,6 @@ env/
 # Pytest
 .pytest_cache/
 
-# Playwright
-test-results/
-playwright-report/
-
 # Environment variables
 .env
 
