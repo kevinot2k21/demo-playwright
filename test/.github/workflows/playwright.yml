@@ -3,7 +3,7 @@ name: Playwright Python Test
 on:
   push:
     branches: [main, master]
-  pulll_request:
+  pull_request:
     branches: [main, master]
   workflow_dispatch:
 
